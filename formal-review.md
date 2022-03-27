@@ -44,4 +44,9 @@ Here are some collected threads on the 2010 mini review, and the 2011 formal rev
                         * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183084.php) er (2011-06-23 11:23:54) 
                     * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183081.php) John Bytheway (2011-06-23 08:14:50) 
                         * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183087.php) er (2011-06-23 11:44:19)  
+* [[boost] [review][assign]](https://lists.boost.org/Archives/boost/2011/06/183170.php) Formal review of Assign v2 ends today John Bytheway (2011-06-24 22:56:14) 
+    * [Re: [boost] [review][assign]](https://lists.boost.org/Archives/boost/2011/06/183199.php) Formal review of Assign v2 ends today Phil Endecott (2011-06-26 17:24:35) 
+    * [Re: [boost] [review][assign]](https://lists.boost.org/Archives/boost/2011/06/183211.php) Formal review of Assign v2 ends today Lars Viklund (2011-06-27 08:57:29) 
+        * [Re: [boost] [review][assign]](https://lists.boost.org/Archives/boost/2011/06/183213.php) Formal review of Assign v2 ends today Daniel James (2011-06-27 09:45:16) 
+        
 
