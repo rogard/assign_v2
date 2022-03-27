@@ -1,6 +1,7 @@
 Here are some collected threads on the 2010 mini review, and the 2011 formal review.
 
 
+* [[boost] [review][assign] Formal review of Assign v2](https://lists.boost.org/Archives/boost/2011/06/182707.php) begins 15th June John Bytheway (2011-06-14 22:17:56) 
 * [[boost] [review] [assign] Formal review of Assign v2 ongoing](https://lists.boost.org/Archives/boost/2011/06/182797.php) John Bytheway (2011-06-16 21:56:25)
 * [Re: [boost] [review] [assign] Formal review of Assign v2 ongoing](https://lists.boost.org/Archives/boost/2011/06/182901.php) er (2011-06-19 22:36:36) 
     * [Re: [boost] [review][assign] Formal review of Assign v2 ongoing](https://lists.boost.org/Archives/boost/2011/06/182909.php) er (2011-06-20 08:53:02) 
