@@ -39,5 +39,9 @@ Here are some collected threads on the 2010 mini review, and the 2011 formal rev
                             * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183158.php) er (2011-06-24 18:42:09) 
                             * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183159.php) Stewart, Robert (2011-06-24 18:55:29) 
 
-
+                        * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183095.php) er (2011-06-23 15:14:00) 
+                    * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183080.php) Denis Shevchenko (2011-06-23 07:21:56) 
+                        * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183084.php) er (2011-06-23 11:23:54) 
+                    * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183081.php) John Bytheway (2011-06-23 08:14:50) 
+                        * [Re: [boost] Assign V2 - first impression](https://lists.boost.org/Archives/boost/2011/06/183087.php) er (2011-06-23 11:44:19)  
 
